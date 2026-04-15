@@ -9,6 +9,8 @@ on:
 jobs:
   crawl-and-deploy:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     env:
       TZ: Asia/Shanghai
 
