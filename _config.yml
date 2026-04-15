@@ -1,7 +1,7 @@
 # Site
 title: AI 行业日报
 baseurl: "/ai_news"
-description: "每日自动聚合 AI 行业重要进展，来源：联商网、亿邦动力、36氪、量子位、第一财经"
+description: "每日自动聚合 AI 行业重要进展，来源：36氪、量子位、第一财经、联商网、虎嗅"
 include:
   - _data
   - subsite-config.json

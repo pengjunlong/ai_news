@@ -2,4 +2,4 @@
 layout: null
 permalink: /subsite-config.json
 ---
-{{ site.data.subsites.news_digest | jsonify }}
+{{ site.data.subsites.ai_news | jsonify }}
