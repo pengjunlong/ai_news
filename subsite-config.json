@@ -1,0 +1,5 @@
+---
+layout: null
+permalink: /subsite-config.json
+---
+{{ site.data.subsites.news_digest | jsonify }}
