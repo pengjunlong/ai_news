@@ -1,7 +1,7 @@
 # Site
-title: 每日新闻摘要
-baseurl: "/news-digest"
-description: "每日新闻联播摘要自动聚合"
+title: AI 行业日报
+baseurl: "/ai_news"
+description: "每日自动聚合 AI 行业重要进展，来源：联商网、亿邦动力、36氪、量子位、第一财经"
 include:
   - _data
   - subsite-config.json
@@ -35,7 +35,7 @@ plugins:
 author:
   name: "Junlong Peng"
   avatar: "https://avatars.githubusercontent.com/u/1436509?v=4"
-  bio: "News is what people want to know..."
+  bio: "每日 AI 行业动态自动聚合..."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"

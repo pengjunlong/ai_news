@@ -1,8 +1,8 @@
 # _data/subsites.yml
-news_digest:
-  displayName: "新闻聚合"
-  url: "/news-digest"
-  icon: "fa-regular fa-newspaper"
-  description: "暂时只有每日新闻联播简介"
-  version: 1.0
-  last_updated: "2025-05-31"
+ai_news:
+  displayName: "AI 行业日报"
+  url: "/ai_news"
+  icon: "fa-solid fa-robot"
+  description: "每日自动聚合 AI 行业重要进展"
+  version: 2.0
+  last_updated: "2026-04-15"
